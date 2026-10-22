@@ -1,4 +1,4 @@
-# Perfume Dataset — Recombee Lab 2
+# Perfume Dataset
 
 The dataset contains approximately 1,000 perfumes from multiple brands. Each row represents a fragrance and describes its concentration, category, target audience, and longevity.
 
