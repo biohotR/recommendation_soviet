@@ -27,7 +27,7 @@ PROPRIETATI_CATALOG = [
     {"name": "type", "type": "string"},
     {"name": "category", "type": "string"},
     {"name": "target_audience", "type": "string"},
-    {"name": "longeviy", "type": "string"}
+    {"name": "longevity", "type": "string"}
 ]
 
 def load_dataset():
