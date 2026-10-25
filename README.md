@@ -5,13 +5,13 @@ The dataset contains approximately 1,000 perfumes from multiple brands. Each row
 ## Dataset Properties
 
 | Column | Type | Description |
-
-| brand | string | Perfume brand
-| perfume | string | Fragrance name
-| type | string | Concentration
-| category | string | Scent family or descriptive category
-| target_audience | string | Intended audience
-| longevity | string | Expected longevity
+| --- | --- | --- |
+| brand | string | Perfume brand |
+| perfume | string | Fragrance name |
+| type | string | Concentration |
+| category | string | Scent family or descriptive category |
+| target_audience | string | Intended audience |
+| longevity | string | Expected longevity |
 
 The `id` column contains a unique numeric identifier for each entry. It will be used as Recombee's `itemId` and is not registered as a property.
 
